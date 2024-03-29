@@ -30,19 +30,19 @@
 
 <ul>
 <li>Using regular expressions to validate the format of each line.</li>
-<li><a href="/rltoken/ZsD-YLisfaHFeMT_sZxX1Q" title="Python Regular Expressions" target="_blank">Python Regular Expressions</a></li>
+<li><a href="https://docs.python.org/3/library/re.html" title="Python Regular Expressions" target="_blank">Python Regular Expressions</a></li>
 </ul></li>
 <li><p><strong>Dictionaries in Python</strong>:</p>
 
 <ul>
 <li>Using dictionaries to count occurrences of status codes and accumulate file sizes.</li>
-<li><a href="/rltoken/JM-RpavKkb8yanxWEnNYJw" title="Python Dictionaries" target="_blank">Python Dictionaries</a></li>
+<li><a href="https://docs.python.org/3/tutorial/datastructures.html#dictionaries" title="Python Dictionaries" target="_blank">Python Dictionaries</a></li>
 </ul></li>
 <li><p><strong>Exception Handling</strong>:</p>
 
 <ul>
 <li>Handling possible exceptions that may arise during file reading and data processing.</li>
-<li><a href="/rltoken/OA2PlryrYA2gyCCKIsdgUw" title="Python Exceptions" target="_blank">Python Exceptions</a></li>
+<li><a href="https://docs.python.org/3/tutorial/errors.html" title="Python Exceptions" target="_blank">Python Exceptions</a></li>
 </ul></li>
 </ol>
 
@@ -51,7 +51,7 @@
 <h2>Additional Resources</h2>
 
 <ul>
-<li><a href="/rltoken/VlOaXKkbecRYdnTLaLU1lg" title="Mock Technical Interview" target="_blank">Mock Technical Interview</a></li>
+<li><a href="https://www.youtube.com/watch?feature=shared&v=5dRTK-_Bzd0" title="Mock Technical Interview" target="_blank">Mock Technical Interview</a></li>
 </ul>
 
 <h2>Requirements</h2>
