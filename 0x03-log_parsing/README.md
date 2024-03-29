@@ -3,9 +3,7 @@
 <h2 align="center"> Algorithm   Python</h2>
 
 <div class="panel-body">
-    <p>For the “0x03. Log Parsing” project, you will need to apply your knowledge of Python programming, focusing on parsing and processing data streams in real-time. 
-This project involves reading from standard input (stdin), handling data in a specific format, and performing calculations based on the input data. 
-Here’s a list of concepts and resources that you might find useful:</p>
+    <p>For the “0x03. Log Parsing” project, you will need to apply your knowledge of Python programming, focusing on parsing and processing data streams in real-time.<br>This project involves reading from standard input (stdin), handling data in a specific format, and performing calculations based on the input data.<br>Here’s a list of concepts and resources that you might find useful:</p>
 
 <h3>Concepts Needed:</h3>
 
@@ -14,7 +12,7 @@ Here’s a list of concepts and resources that you might find useful:</p>
 
 <ul>
 <li>Understand how to read from <code>sys.stdin</code> line by line.</li>
-<li><a href="/rltoken/f7U2MDsBT_rd9AfUUaqVnQ" title="Python Input and Output" target="_blank">Python Input and Output</a></li>
+<li><a href="https://docs.python.org/3/tutorial/inputoutput.html" title="Python Input and Output" target="_blank">Python Input and Output</a></li>
 </ul></li>
 <li><p><strong>Signal Handling in Python</strong>:</p>
 
