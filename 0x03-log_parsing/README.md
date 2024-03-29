@@ -53,3 +53,8 @@
 <ul>
 <li><a href="https://www.youtube.com/watch?feature=shared&v=5dRTK-_Bzd0" title="Mock Technical Interview" target="_blank">Mock Technical Interview</a></li>
 </ul>
+
+## Tasks
+- [Log parsing](./0-stats.py)<br>
+Write a script that reads stdin line by line and computes metrics:
+
