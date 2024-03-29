@@ -22,16 +22,17 @@ try:
 
         if counter == 10:
             counter = 0
-            print('File size: {}'.format(total_size))
+            print('Total file size: {}'.format(total_size))
             for key, value in sorted(cache.items()):
                 if value != 0:
                     print('{}: {}'.format(key, value))
 
-except Exception as err:
-    pass
+except KeyboardInterrupt:
+    print('Total file size: {}'.format(total_size))
 
-finally:
-    print('File size: {}'.format(total_size))
     for key, value in sorted(cache.items()):
         if value != 0:
             print('{}: {}'.format(key, value))
+except Exception as err:
+    pass
+
