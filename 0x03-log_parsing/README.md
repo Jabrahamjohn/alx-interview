@@ -18,7 +18,7 @@
 
 <ul>
 <li>Handling keyboard interruption (CTRL + C) using signal handling in Python.</li>
-<li><a href="/rltoken/1nDqPJe80rSD-NMulzjJBw" title="Python Signal Handling" target="_blank">Python Signal Handling</a></li>
+<li><a href="https://docs.python.org/3/library/signal.html" title="Python Signal Handling" target="_blank">Python Signal Handling</a></li>
 </ul></li>
 <li><p><strong>Data Processing</strong>:</p>
 
