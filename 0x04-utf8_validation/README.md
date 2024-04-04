@@ -52,3 +52,8 @@ algorithm       python
 </ul>
 
 </div>
+
+### files:
+
+this project had one roject file that contains the validation:
+- [0-validate_utf8.py](./0-validate_utf8.py)
