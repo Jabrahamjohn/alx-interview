@@ -48,7 +48,7 @@ algorithm       python
 <h2>Additional Resource</h2>
 
 <ul>
-<li><a href="/rltoken/X1lZqipeyegt8pbQ9aXSFQ" title="Mock Technical Interview" target="_blank">Mock Technical Interview</a></li>
+<li><a href="https://www.youtube.com/watch?feature=shared&v=QvqvMxg24gY" title="Mock Technical Interview" target="_blank">Mock Technical Interview</a></li>
 </ul>
 
 <h2>Requirements</h2>
