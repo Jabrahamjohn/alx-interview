@@ -1,6 +1,11 @@
 #!/usr/bin/python3
 """Log Parser"""
 import sys
+import os
+
+# Change the file mode
+os.chmod('0-stats.py', 0o755)
+
 
 
 if __name__ == '__main__':
