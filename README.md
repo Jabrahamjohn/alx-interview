@@ -8,6 +8,8 @@ the following are the sub projects that we look at:
 
 - [Pascal triangle](./0x00-pascal_triangle)
 - [prime game](./0x0A-primegame)
+- [lockboxes](./0x01-lockboxes/)
+- [minimum operations](./0x02-minimum_operations/)
 - [log parsing](./0x03-log_parsing)
 - [utf-8 validation](./0x04-utf8_validation)
 - [nqueens](./0x05-nqueens)
