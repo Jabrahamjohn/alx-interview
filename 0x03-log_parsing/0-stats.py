@@ -5,9 +5,6 @@ import os
 
 # Change the file mode
 os.chmod('0-stats.py', 0o755)
-
-
-
 if __name__ == '__main__':
     """ Main function """
     file_size = [0]
